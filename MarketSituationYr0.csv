@@ -1,0 +1,7 @@
+Company Name,Target Market,Business Model,Number of customers (in millions),Pricing Model,Price Point (annual),Annual Revenue (cr),Net Income %,Net Income (cr),Cash in Hand (cr)
+AI Doc,Consumers,B2C,1.4,Annual Subscription,"₹ 2,400",₹ 336,5%,₹ 17,₹ 8
+HealthAI,Large Hospitals,B2B2C,0.8,Pay per use,₹ 800,₹ 64,10%,₹ 6,₹ 6
+AapkaDoc,Small Hospitals,B2B2C,0.6,Pay per use,₹ 600,₹ 36,15%,₹ 5,₹ 4
+Doc4U,Insurance Firms,B2B2C,0.5,Annual Subscription,"₹ 2,000",₹ 100,20%,₹ 20,₹ 4
+SuperDoc,Diagnostic Centers,B2B2C,0.8,Pay per use,₹ 500,₹ 40,15%,₹ 6,₹ 4
+YOD (Your Own Doc),Consumers,B2C,0.1,Annual Subscription,"₹ 12,000",₹ 120,6%,₹ 7,₹ 12
